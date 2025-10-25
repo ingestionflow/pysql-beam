@@ -1,5 +1,10 @@
 ## pysql-beam
 
+
+NOTE:
+We are looking for maintainer for this repository. We will really appreciate contribution.
+
+
 This package aim to provide Apache_beam io connector for MySQL, Postgres and MSSQL Database database.
 
 This package provides apache beam io connectors for postgres db, mssql db and mysql db.
